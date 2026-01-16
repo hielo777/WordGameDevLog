@@ -13,14 +13,15 @@ This repository serves as a public developer log for an upcoming video game that
 
  ## ⚙️ Gameplay:
 
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;Game Logic <small>(Click here for full explanation)</small></summary>
+
 Tap anywhere on the screen to make your character walk to that spot.
  
 Collect coins to unlock and play arcade minigames.
 
 <div align="center">
-  <img src="WordGameScreenshot01.png">
+    <a href="https://hielo777.github.io/WordGameDevLog/">
+        <img src="WordGameScreenshot01.png">
+    </a>
 </div>
 <p>
   <a href="https://hielo777.github.io/WordGameDevLog/">
@@ -29,7 +30,7 @@ Collect coins to unlock and play arcade minigames.
 </p>
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
-</details>
+
 
 ***
 
