@@ -15,8 +15,18 @@ This repository serves as a public developer log for an upcoming video game that
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;Game Logic <small>(Click here for full explanation)</small></summary>
+Tap anywhere on the screen to make your character walk to that spot.
+ 
+Collect coins to unlock and play arcade minigames.
 
-Under Construction
+<div align="center">
+  <img src="WordGameScreenshot01.png">
+</div>
+<p>
+  <a href="https://hielo777.github.io/WordGameDevLog/">
+    Click here to try the demo >>
+  </a>
+</p>
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
